@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">Vending Machine</string>
+  <string name="price_template">Price: %d</string>
+  <string name="change_template">Change: %s</string>
+  <string name="total_template">Total: %d</string>
+  <string name="buy">Buy</string>
+  <string name="message_take_change">Please take the change</string>
+  <string name="message_not_enough_money">Not enough coins inserted to buy this product</string>
+</resources>
